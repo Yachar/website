@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kinetic on Yashar Valakjie</title>
+    <link>http://example.com/tags/kinetic/</link>
+    <description>Recent content in kinetic on Yashar Valakjie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.com/tags/kinetic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wind water witness</title>
+      <link>http://example.com/project/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/project/project1/</guid>
+      <description>Yashar in front of DSLE by ? ?    ##Wind water witness
+ “Wind water witness” is inspired from the mechanics of movement in fluid matters also found in the movement pattern of fleeing people in the streets of Tehran during Iran’s 2009 Green movement. Here, the installation consists of water droplets that create an analogue generative drawing (mostly horizontal lines on the glass sheet) made possible by the pressure of the blowing air on the surface of the glass sheet.</description>
+    </item>
+    
+  </channel>
+</rss>
