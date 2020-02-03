@@ -6,46 +6,10 @@
     <description>Recent content in Tags on Yashar Valakjie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://yachar.github.io/website/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>go</title>
-      <link>https://yachar.github.io/website/tags/go/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://yachar.github.io/website/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>https://yachar.github.io/website/tags/golang/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://yachar.github.io/website/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>https://yachar.github.io/website/tags/hugo/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://yachar.github.io/website/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://yachar.github.io/website/tags/themes/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://yachar.github.io/website/tags/themes/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>development</title>
@@ -57,11 +21,29 @@
     </item>
     
     <item>
-      <title>template</title>
-      <link>https://yachar.github.io/website/tags/template/</link>
+      <title>go</title>
+      <link>https://yachar.github.io/website/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://yachar.github.io/website/tags/template/</guid>
+      <guid>https://yachar.github.io/website/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://yachar.github.io/website/tags/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://yachar.github.io/website/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://yachar.github.io/website/tags/hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://yachar.github.io/website/tags/hugo/</guid>
       <description></description>
     </item>
     
@@ -75,65 +57,11 @@
     </item>
     
     <item>
-      <title>jekyll</title>
-      <link>https://yachar.github.io/website/tags/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://yachar.github.io/website/tags/jekyll/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>static-site-generator</title>
-      <link>https://yachar.github.io/website/tags/static-site-generator/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://yachar.github.io/website/tags/static-site-generator/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bootstrap</title>
-      <link>https://yachar.github.io/website/tags/bootstrap/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yachar.github.io/website/tags/bootstrap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>css</title>
-      <link>https://yachar.github.io/website/tags/css/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yachar.github.io/website/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>glass</title>
       <link>https://yachar.github.io/website/tags/glass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yachar.github.io/website/tags/glass/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>highlight-js</title>
-      <link>https://yachar.github.io/website/tags/highlight-js/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yachar.github.io/website/tags/highlight-js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>html</title>
-      <link>https://yachar.github.io/website/tags/html/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yachar.github.io/website/tags/html/</guid>
       <description></description>
     </item>
     
@@ -147,38 +75,11 @@
     </item>
     
     <item>
-      <title>js</title>
-      <link>https://yachar.github.io/website/tags/js/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yachar.github.io/website/tags/js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>kinetic</title>
       <link>https://yachar.github.io/website/tags/kinetic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yachar.github.io/website/tags/kinetic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>responsive</title>
-      <link>https://yachar.github.io/website/tags/responsive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yachar.github.io/website/tags/responsive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>syntax-highlighting</title>
-      <link>https://yachar.github.io/website/tags/syntax-highlighting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yachar.github.io/website/tags/syntax-highlighting/</guid>
       <description></description>
     </item>
     

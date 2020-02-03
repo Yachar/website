@@ -1,11 +1,12 @@
 ---
 title: About
-description: What is Hugo?
+description: statement
 ---
 
-Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.
-Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors.
+Contemporary artist and cultural operator, I graduated from the École Supérieure d'Art (Higher school of arts) of Aix-en-Provence in 2015. Interested in the impact of the environment and time on the inner process of perception of the real world, as well as on the construction of human identity. Attracted by the relationship between identity and landscape, especially in its sound aspect.
 
-Websites built with Hugo are extremely fast and secure. Hugo sites can be hosted anywhere, including Netlify, Heroku, GoDaddy, DreamHost, GitHub Pages, GitLab Pages, Surge, Aerobatic, Firebase, Google Cloud Storage, Amazon S3, Rackspace, Azure, and CloudFront and work well with CDNs. Hugo sites run without the need for a database or dependencies on expensive runtimes like Ruby, Python, or PHP.
+It was while working on soundscapes and the notion of time in the present time that the sonification1 of environmental data has became a coherent way to find the sensory capability that we need as a "dominant" species. Auditory communication could be a crucial and very touching way for finding our place in today's fast-paced world. It could be also the key element for regaining and maintaining the lost connection with "nature". Through sonification we could become aware of our impact on the planet in ways that wasn’t possible before.
 
-We think of Hugo as the ideal website creation tool with nearly instant build times, able to rebuild whenever a change is made.
+In this respect, it can play an important role in combating the intellectual and political separation between society and nature. It is important to mention that it is this "vision of Nature as external is a fundamental condition for capital accumulation". (Moore JW. 2015) and capitalism as the underlying reason for the contemporary climate and identity crisis.
+
+*Sonification is the use of non-speech audio to convey information or perceptualize data.

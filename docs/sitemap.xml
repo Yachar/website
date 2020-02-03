@@ -7,63 +7,6 @@
   </url>
   
   <url>
-    <loc>https://yachar.github.io/website/project/project2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yachar.github.io/website/project/project3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yachar.github.io/website/project/project4/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yachar.github.io/website/post/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yachar.github.io/website/tags/go/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yachar.github.io/website/tags/golang/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yachar.github.io/website/tags/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yachar.github.io/website/post/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yachar.github.io/website/tags/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yachar.github.io/website/tags/themes/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yachar.github.io/website/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yachar.github.io/website/post/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://yachar.github.io/website/categories/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
@@ -79,12 +22,32 @@
   </url>
   
   <url>
+    <loc>https://yachar.github.io/website/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yachar.github.io/website/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yachar.github.io/website/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yachar.github.io/website/categories/post/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yachar.github.io/website/tags/template/</loc>
+    <loc>https://yachar.github.io/website/post/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yachar.github.io/website/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -94,18 +57,8 @@
   </url>
   
   <url>
-    <loc>https://yachar.github.io/website/tags/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yachar.github.io/website/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yachar.github.io/website/tags/static-site-generator/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>https://yachar.github.io/website/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -113,31 +66,11 @@
   </url>
   
   <url>
-    <loc>https://yachar.github.io/website/tags/bootstrap/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yachar.github.io/website/tags/css/</loc>
-  </url>
-  
-  <url>
     <loc>https://yachar.github.io/website/tags/glass/</loc>
   </url>
   
   <url>
-    <loc>https://yachar.github.io/website/tags/highlight-js/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yachar.github.io/website/tags/html/</loc>
-  </url>
-  
-  <url>
     <loc>https://yachar.github.io/website/tags/installaiton/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yachar.github.io/website/tags/js/</loc>
   </url>
   
   <url>
@@ -146,14 +79,6 @@
   
   <url>
     <loc>https://yachar.github.io/website/project/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yachar.github.io/website/tags/responsive/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yachar.github.io/website/tags/syntax-highlighting/</loc>
   </url>
   
   <url>

@@ -6,7 +6,7 @@ weight: 1
 draft: false
 ---
 
-{{< figure src="https://www.freevector.com/uploads/vector/preview/12546/FreeVector-Wind-Icon.jpg" title="Yashar in front of DSLE by ? ? " >}}
+{{< figure src="https://www.freevector.com/uploads/vector/preview/12546/FreeVector-Wind-Icon.jpg" title="temporary image" >}}
 
 ##Wind water witness
 
