@@ -1,5 +1,5 @@
 ---
-title: "Creating a New Theme"
+title: "Creating a New Theme2"
 date: 2014-09-28
 tags: ["go", "golang", "hugo", "themes"]
 draft: false
