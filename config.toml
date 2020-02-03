@@ -1,4 +1,4 @@
-baseURL = "https://yachar.github.com/"
+baseURL = "https://yachar.github.io/website"
 publishDir = "docs"
 languageCode = "en-us"
 title = "Yashar Valakjie"
